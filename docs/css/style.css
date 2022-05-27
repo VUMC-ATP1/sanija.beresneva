@@ -1,0 +1,55 @@
+*I {
+    max-width: 100%;
+    margin: auto;
+}
+
+p,
+h1,
+h2,
+li {
+    font-family: 'Buenard', serif;
+}
+
+p,
+li {
+    font-size: 20px;
+}
+
+#footer {
+    height: 40px;
+    width: 100%;
+    background-color: #368030;
+    position: relative;
+    clear: both;
+}
+
+.content {
+    display: table;
+    margin-top: 6px;
+    margin-left: 60px;
+    width: 75%;
+    height: 650px;
+}
+
+.paragraphStyle {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#copyright {
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    color: #f3fff0;
+}
+
+img {
+    border-radius: 50%;
+    width: 15%;
+    align-items: center;
+}
+
+hr {
+    border: 1.5px solid #368030;
+    border-radius: 5px;
+}
